@@ -1,0 +1,1 @@
+{"description":"make.fun bounty entry: the funniest excuse a dog gives after being caught eating the homework.","engines":{"node":">=22"},"license":"MIT","name":"dog-homework-01","private":true,"scripts":{"start":"node main.ts"},"type":"module","version":"1.0.0"}
